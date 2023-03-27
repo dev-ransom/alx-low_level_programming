@@ -1,3 +1,4 @@
+![190977571-d5135d31-02a5-4ff3-88de-d9062d6cfe13](https://user-images.githubusercontent.com/112782232/228075770-5f7d5351-92ea-4e34-9e38-ef3077451468.png)
 
 0-reset_to_98.c 
 * Write a function that takes a pointer to an int as parameter and updates the value it points to to 98.
