@@ -1,4 +1,5 @@
 ![190977571-d5135d31-02a5-4ff3-88de-d9062d6cfe13](https://user-images.githubusercontent.com/112782232/228075770-5f7d5351-92ea-4e34-9e38-ef3077451468.png)
+
 In C programming language, an address is a numeric value that represents the location of a variable or a function in memory. A pointer in C is a variable that stores the address of another variable.
 
 To obtain the address of a variable in C, you can use the "address-of" operator "&" followed by the variable name
