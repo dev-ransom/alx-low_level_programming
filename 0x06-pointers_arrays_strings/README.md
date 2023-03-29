@@ -8,7 +8,7 @@
 ## [2-strncpy.c](./2-strncpy.c)
 * File 2-strncpy.c is a function that copies a string.
 
-## [3-strcmp.c](./3-strcmp.c]
+## [3-strcmp.c](./3-strcmp.c)
 * File 3-strcmp.c is a function that compares two strings.
 
 ## [4-rev_array.c](./4-rev_array.c)
