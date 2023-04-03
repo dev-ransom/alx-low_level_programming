@@ -1,3 +1,4 @@
+![moreOnPointer](https://user-images.githubusercontent.com/112782232/229525194-4e0b99ce-2066-4bf3-94f8-6465a9170e44.jpeg)
 # [0x07.](./0x07.) C - Even more pointers, arrays and strings C Projects
 ## [0-memset.c](./0-memset.c) is a function that fills memory with a constant byte.
 ## [1-memcpy.c](./1-memcpy.c) is a function that copies memory area.
