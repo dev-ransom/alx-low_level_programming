@@ -10,7 +10,6 @@
 ## [0-set_string.c](./0-set_string.c) is a function that sets the value of a pointer to a char.
 File main.h is the header file with the functions prototypes.
 File _putchar.c is the file that contains the _putchar function.
-##[100-set_string.c](./100-set_string.c) Write a function that sets the value of a pointer to a char.
-
+## [100-set_string.c](./100-set_string.c) Write a function that sets the value of a pointer to a char.
 Prototype: void set_string(char **s, char *to);
-##[101-crackme](./101-crackme)_password contains the password for the [crackme2](./crackme2) executable.
+## [101-crackme](./101-crackme)_password contains the password for the [crackme2](./crackme2) executable.
