@@ -1,4 +1,4 @@
-[recursion.pdf](https://github.com/dev-ransom/alx-low_level_programming/files/11156452/recursion.pdf)
+
 File 0-puts_recursion.c is a function that prints a string, followed by a new line.
 
 File 1-print_rev_recursion.c is a function that prints a string in reverse.
